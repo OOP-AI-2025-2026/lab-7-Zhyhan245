@@ -175,7 +175,7 @@ class Task7 {
 
         String[] result = stringify(numbers, numberToWord);
 
-        System.out.println("Вхідні числа:  " + Arrays.toString(numbers));
+        System.out.println("Вхіднічисла:  " + Arrays.toString(numbers));
         System.out.println("Словами: " + Arrays.toString(result));
     }
 
