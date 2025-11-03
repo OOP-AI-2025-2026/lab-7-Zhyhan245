@@ -6,8 +6,6 @@ import java.util.function.Consumer;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-
-//Завдання 1
 class Task1 {
     public static void main(String[] args) {
         System.out.println("Завдання 1: Напишіть предикат, який повертає true, якщо число є простим.\n");
@@ -58,7 +56,6 @@ class Student {
     }
 }
 
-//Завдання 2
 class Task2 {
     public static void main(String[] args) {
         System.out.println("Завдання 2: Дан наступний клас Student. У випадку необхідності додайте потрібні гетери, сетери...\n");
@@ -77,7 +74,6 @@ class Task2 {
     }
 }
 
-//Завдання 3
 class Task3 {
     public static void main(String[] args) {
         System.out.println("Завдання 3: Напишіть метод фільтрації за двома умовами (два предикати). Елемент...\n");
@@ -94,7 +90,6 @@ class Task3 {
     }
 }
 
-//Завдання 4
 class Task4 {
     public static void main(String[] args) {
         System.out.println("Завдання 4: Напишіть інтерфейс Consumer, який приймає на вхід об'єкт типу Student...");
@@ -114,7 +109,6 @@ class Task4 {
     }
 }
 
-//Завдання 5
 class Task5 {
     public static void main(String[] args) {
         System.out.println("Завдання 5: Напишіть метод, який приймає Predicate та Consumer. Дія в Consumer...\n");
@@ -134,7 +128,6 @@ class Task5 {
     }
 }
 
-//Завдання 6
 class Task6 {
     public static void main(String[] args) {
         System.out.println("Завдання 6: Напишіть Function, який приймає на вхід ціле число n та повертає ціле число 2^n...\n");
@@ -151,7 +144,6 @@ class Task6 {
     }
 }
 
-//Завдання 7
 class Task7 {
     public static void main(String[] args) {
         System.out.println("Завдання 7: Напишіть метод stringify(), який приймає на вхід масив цілих чисел від 0 до...\n");
